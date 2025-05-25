@@ -2,7 +2,7 @@
 
 **AI Researcher | Machine Learning & Data Science Enthusiast**
 
-![Profile Banner](https://www.google.com/imgres?q=profile%20banner%20coding&imgurl=https%3A%2F%2Fpreview.redd.it%2Fnfgklbofyj171.png%3Fwidth%3D511%26format%3Dpng%26auto%3Dwebp%26s%3D1ae8536acce32e01e493a28fbcddbc18bba84719&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdiscordapp%2Fcomments%2Fnluudf%2Fnew_discord_profile_banner_only_available_for%2F&docid=2HOXBUGIVa5aUM&tbnid=tFAuZVYLkYBcvM&vet=12ahUKEwjY74vh9L6NAxVwlFYBHdK-G0UQM3oECD4QAA..i&w=511&h=183&hcb=2&ved=2ahUKEwjY74vh9L6NAxVwlFYBHdK-G0UQM3oECD4QAA)
+![Profile Banner](https://preview.redd.it/nfgklbofyj171.png?width=511&format=png&auto=webp&s=1ae8536acce32e01e493a28fbcddbc18bba84719)
 
 ---
 
