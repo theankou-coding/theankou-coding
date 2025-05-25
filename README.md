@@ -2,8 +2,6 @@
 
 **AI Researcher | Machine Learning & Data Science Enthusiast**
 
-![Profile Banner](https://preview.redd.it/https://www.google.com/url?sa=i&url=https%3A%2F%2Fcj.sina.cn%2Farticles%2Fview%2F6352197120%2F17a9ed600022001zva%3Fvt%3D4&psig=AOvVaw1TmxZej0MVVVQA-DFs6JsN&ust=1748272740302000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjY3oT2vo0DFQAAAAAdAAAAABAE)
-
 ---
 
 ## 🚀 About Me
