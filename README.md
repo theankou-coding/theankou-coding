@@ -33,7 +33,7 @@ Currently working on private AI projects and always eager to collaborate on inno
 
 | Languages & Technologies               | Frameworks & Libraries               | Tools & Platforms            | AI / ML Frameworks              |
 | ------------------------------------ | ---------------------------------- | --------------------------- | ------------------------------ |
-| Java, JavaScript, Python, C++, PHP, CSS, HTML, TailwindCSS | React, Node.js, Next.js, Django, Tesseract OCR | Git, Docker, Linux, AWS       | TensorFlow, PyTorch, Scikit Learn, OpenCV |
+| Java, JavaScript, Python, C++, PHP, CSS, HTML, TailwindCSS | React, Node.js, Next.js| Git, Docker, AWS       | OpenCV |
 
 ---
 
