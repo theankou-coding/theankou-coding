@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm theankou-coding
 
 **AI Researcher | Machine Learning & Data Science Enthusiast**
 
