@@ -19,9 +19,9 @@
 
 ## 🚀 About Me
 
-I am a passionate AI developer dedicated to building impactful solutions.  
-Specialized in **Machine Learning**, **Data Science**, and cutting-edge **Attention Mechanisms**.  
-Currently working on private AI projects and always eager to collaborate on innovative AI/ML work.
+I am a passionate Fullstack Developer dedicated to building impactful and scalable web and software solutions that drive innovation.
+I have experience working across both frontend and backend technologies, and I enjoy integrating Machine Learning, Data Science, and modern AI techniques into fullstack applications.
+Currently, I’m working on private projects that combine AI with robust fullstack systems, and I’m always eager to collaborate on challenging and innovative development initiatives.
 
 | 💼 Currently Working On      | 📚 Learning               | 🎯 Focus Area                  | 👯 Open To Collaborate On         |
 |-----------------------------|--------------------------|-------------------------------|----------------------------------|
