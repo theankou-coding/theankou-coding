@@ -1,7 +1,7 @@
 <!-- Title / Heading -->
 <h1 align="center">Hi 👋, I'm Theankou-Coding</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Web+%26+Software+Engineering+Enthusiast;Building+Scalable+Solutions;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+|+Web+Development&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=500" alt="Typing SVG" />
 </h3>
 
 <div align="center">
