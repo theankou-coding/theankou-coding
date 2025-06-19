@@ -1,30 +1,39 @@
 <!-- Title / Heading -->
 <h1 align="center">Hi 👋, I'm Theankou-Coding</h1>
-<h3 align="center">Fullstack Developer | Web & Software Engineering Enthusiast</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Web+%26+Software+Engineering+Enthusiast;Building+Scalable+Solutions;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+</h3>
 
 <div align="center">
-
-  <!-- Animated waving hand -->
-  <p style="font-size: 2em; margin-top: -10px;">👋</p>
-
+  <!-- Animated waving hand with CSS animation -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  
   <!-- Social links with badges -->
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theankou-coding/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theankou-coding)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theankoul182@gmail.com)
-  [![Website](https://img.shields.io/badge/-Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blizzer.tech)
-
+  <br><br>
+  <a href="https://www.linkedin.com/in/theankou-coding/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/theankou-coding/" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/theankou-coding">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:theankoul182@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://blizzer.tech">
+    <img src="https://img.shields.io/badge/-Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Fullstack Developer** dedicated to building impactful and scalable web and software solutions that drive innovation.  
+I am a passionate Fullstack Developer dedicated to building impactful and scalable web and software solutions that drive innovation.  
 I work across frontend and backend technologies, creating seamless user experiences and efficient systems.  
-Currently, I’m focusing on private fullstack projects and am always eager to collaborate on innovative development initiatives.
+Currently, I'm focusing on private fullstack projects and am always eager to collaborate on innovative development initiatives.
 
 | 💼 Currently Working On      | 📚 Learning               | 🎯 Focus Area                | 👯 Open To Collaborate On      |
-|-----------------------------|--------------------------|-----------------------------|-------------------------------|
+|-----------------------------|--------------------------|-----------------------------|---------------------------------|
 | Private Web & App Projects   | Next.js, Docker, AWS      | Fullstack Web Development    | Web Apps, APIs, SaaS Platforms |
 
 ---
@@ -70,11 +79,11 @@ Currently, I’m focusing on private fullstack projects and am always eager to c
 
 ## 💬 Quote
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
+> _"Code is like humor. When you have to explain it, it's bad."_
 
 ---
 
 <div align="center">
-  ### Thank you for visiting my profile! 🙏  
-  ![Visitors](https://komarev.com/ghpvc/?username=theankou-coding&color=blue&style=flat-square&label=Profile+Views)
+  <h3>Thank you for visiting my profile! 🙏</h3>
+  <img src="https://komarev.com/ghpvc/?username=theankou-coding&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
