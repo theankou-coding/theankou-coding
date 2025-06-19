@@ -39,23 +39,42 @@
 ---
 
 ## 🌐 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/thean kuor" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thean kuor" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/thean kuor" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thean kuor" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/thean kuor" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thean kuor" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/theankou" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theankou" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/ogkou" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ogkou" height="30" width="40" />
-  </a>
-</p>
+
+<table align="left">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://twitter.com/thean kuor" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thean kuor" height="40" width="40" />
+      </a>
+      <br><strong>Twitter</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://fb.com/thean kuor" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thean kuor" height="40" width="40" />
+      </a>
+      <br><strong>Facebook</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://instagram.com/thean kuor" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thean kuor" height="40" width="40" />
+      </a>
+      <br><strong>Instagram</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.youtube.com/c/theankou" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theankou" height="40" width="40" />
+      </a>
+      <br><strong>YouTube</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://discord.gg/ogkou" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ogkou" height="40" width="40" />
+      </a>
+      <br><strong>Discord</strong>
+    </td>
+  </tr>
+</table>
+<br clear="left"/>
 
 ---
 
