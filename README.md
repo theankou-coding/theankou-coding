@@ -186,9 +186,9 @@
 
 | Project Name  | Language    | Description                         | Stars |
 | ------------- | ----------- | ----------------------------------- | ----- |
-| [Blizzer](https://github.com/blizzertech/blizzer-revamp.git) | Nextjs & Tailwindcss | Blizzer.tech appcation and website | ![GitHub stars](https://blizzer.tech/) |
-| [Menu Online](https://github.com/blizzertech/e-menu.git)     |  Nextjs & Tailwindcss | Menu Online Application | ![GitHub stars](https://github.com/blizzertech/e-menu.git) |
-| [Eventify](https://github.com/theankou-coding/eventify.git)  | React & Tailwindcss      | Eventify frontend                   | ![GitHub stars](https://github.com/theankou-coding/eventify.git) |
+| [Blizzer](https://github.com/blizzertech/blizzer-revamp.git) | Nextjs & Tailwindcss | Blizzer.tech appcation and website | (https://blizzer.tech/) |
+| [Menu Online](https://github.com/blizzertech/e-menu.git)     |  Nextjs & Tailwindcss | Menu Online Application |(https://github.com/blizzertech/e-menu.git) |
+| [Eventify](https://github.com/theankou-coding/eventify.git)  | React & Tailwindcss      | Eventify frontend                   | (https://github.com/theankou-coding/eventify.git) |
 
 
 ---
