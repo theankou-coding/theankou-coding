@@ -186,10 +186,10 @@
 
 | Project Name  | Language    | Description                         | Stars |
 | ------------- | ----------- | ----------------------------------- | ----- |
-| [picToGraph](https://github.com/theankou-coding/picToGraph) | JavaScript | Image to graph converter web app | ![GitHub stars](https://img.shields.io/github/stars/theankou-coding/picToGraph?style=social) |
-| [kesspay](https://github.com/theankou-coding/kesspay)     | JavaScript | Modern payment processing solution | ![GitHub stars](https://img.shields.io/github/stars/theankou-coding/kesspay?style=social) |
-| [tesseract](https://github.com/theankou-coding/tesseract)  | React       | OCR app frontend                   | ![GitHub stars](https://img.shields.io/github/stars/theankou-coding/tesseract?style=social) |
-| [kesspay_php](https://github.com/theankou-coding/kesspay_php) | PHP     | PHP backend for payment system      | ![GitHub stars](https://img.shields.io/github/stars/theankou-coding/kesspay_php?style=social) |
+| [Blizzer](https://github.com/blizzertech/blizzer-revamp.git) | Nextjs & Tailwindcss | Blizzer.tech appcation and website | ![GitHub stars](https://github.com/blizzertech/blizzer-revamp.git) |
+| [Menu Online](https://github.com/blizzertech/e-menu.git)     |  Nextjs & Tailwindcss | Menu Online Application | ![GitHub stars](https://github.com/blizzertech/e-menu.git) |
+| [Eventify](https://github.com/theankou-coding/eventify.git)  | React & Tailwindcss      | Eventify frontend                   | ![GitHub stars](https://github.com/theankou-coding/eventify.git) |
+
 
 ---
 
