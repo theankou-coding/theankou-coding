@@ -28,8 +28,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on [Menu Online](https://blizzer.tech/)
-- 👯 I'm looking to collaborate on [Blizzer.tech](http://localhost:3000/)
+- 🔭 I'm currently working on [Blizzer.tech](https://blizzer.tech/)
+- 👯 I'm looking to collaborate on [Menu Online](http://localhost:3000/)
 - 👨‍💻 All of my projects are available at [https://blizzer.tech/](https://blizzer.tech/)
 - 💬 Ask me about **HTML, CSS, JavaScript, Vue, Node, React, Next.js, TailwindCSS**
 - 📫 How to reach me: **theankoul182@gmail.com**
